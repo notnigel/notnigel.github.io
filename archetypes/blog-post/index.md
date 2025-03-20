@@ -8,10 +8,10 @@ weight: 100
 aliases: []
 resources:
     - name: headshot
-      title: Eddie Webbinaro
+      title: Nigel David
       src: assets/headsot.jpg
 ---
-{{< floatimg "headshot" "350x350" "Eddie headhsot" "right" >}}
+{{< floatimg "headshot" "350x350" "Nigel headhsot" "right" >}}
 
 Welcome to sample post
 

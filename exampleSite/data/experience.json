@@ -1,20 +1,8 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"February 2016 - Present"
-    },
-    {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
-    },
-    {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role":"Enterprise Infrastructure Solutions (EIS) - Portal",
+        "company":"Lumen Account, IBM",
+        "summary":"As a full stack developer for the Enterprise Infrastructure Solutions (EIS) Program, I designed and implemented scalable web applications supporting U.S. government IT modernization. Collaborated on system architecture, delivered high-quality code adhering to security standards, and integrated innovative technologies to enhance network capabilities. Mentored junior developers, contributed to test automation, and optimized system performance. Created monitoring dashboards and conducted security audits to maintain data protection for sensitive government information.",
+        "range":"June 2021 - Present"
     }
 ]

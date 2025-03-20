@@ -1,4 +1,4 @@
-title = "Eddie Webbinaro"
+title = "Nigel David"
 baseURL = "https://example.com/"
 theme = "hugo-resume"
 languageCode = "en-us"
@@ -8,19 +8,19 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Rollinsford, NH"
-email = "email@domain.com"
+address = "Asheville, NC"
+email = "not.nigel@protonmail.com"
 favicon = "/favicon.ico"
-firstName = "Eddie"
-lastName = "Webbinaro"
+firstName = "Nigel"
+lastName = "David"
 phone = "1-555-555-1234"
-profileImage = "img/TechChat.png"
-showQr = true
-showContact = true
-showBoards  = true
-showCertifications = true
+profileImage = "img/nigel_david.jpeg"
+showQr = false
+showContact = false
+showBoards  = false
+showCertifications = false
 showSocializations = true
-sections = ["skills","publications","creations","contributions","experience","education","blog"]
+sections = ["skills","experience","education"]
 
 
 [params.google]
@@ -30,26 +30,11 @@ trackerID = "XX-123446-01"
 
 [[params.handles]]
     name = "LinkedIn"
-    link = "https://www.linkedin.com/in/edwardwebb/"
+    link = "https://www.linkedin.com/in/nigel-david/"
 
 [[params.handles]]
     name = "GitHub"
     link = "https://github.com/eddiewebb/"
-
-[[params.handles]]
-    name = "Keybase"
-    link = "https://keybase.io/edwardawebb"
-    icon = "keybase"
-    
-[[params.handles]]
-    name = "Bluesky"
-    link = "https://bsky.app/profile/webbinaro.dev"
-    icon = "bluesky"
-
-[[params.handles]]
-    link = "https://stackoverflow.com/users/82880/eddie"
-    name = "Stack Overflow"
-    icon = "stack-overflow"
 
 [outputs]
 home = ["HTML", "JSON"]

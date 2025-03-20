@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+Nigel David is a Software Developer in IBM’s Global Business Services organization. He is an adaptable, organized, and detail-oriented engineer. His background comes from his degree in computer science and previous positions as a Requirements Engineer, Scrum Master, and Software Engineer. He has recent experience as in solutioning and development with Lumen Telecommunications.
